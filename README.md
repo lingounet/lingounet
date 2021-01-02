@@ -1,19 +1,14 @@
-# [Lingounet](https://lingounet.github.io/lingounet) blog
+## Hello! 👋
 
-## Prerequisite
+I'm Ling.
 
-- [Hugo](https://gohugo.io/)
-
-## Installation
-
-```bash
-# The sources are located in the `blog` branch
-git clone -b blog https://github.com/lingounet/lingounet
-# If you want to serve the website in localhost:1313
-hugo serve
 ```
-
-## Deployment
-
-The deployment is performed automatically using the [Github actions](.github/workflows/gh-pages.yml) into `master` branch.
-
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│   Ling Lin / @lingounet                                    │
+│                                                            │
+│     GitHub: https://github.com/lingounet                   │
+│    Twitter: https://twitter.com/lingounet                  │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
